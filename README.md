@@ -36,7 +36,7 @@ O notebook explora estas áreas de dados:
 - **Python** → Linguagem de programação principal.  
 - **Pandas** → Manipulação e análise de dados.  
 - **Matplotlib & Seaborn** → Visualização dos dados.  
-- **Jupyter Notebook** → Ambiente de desenvolvimento e apresentação da análise.  
+- **Google Colab** → Ambiente de desenvolvimento e apresentação da análise.  
 
 ---
 
