@@ -57,4 +57,4 @@ O notebook explora estas áreas de dados:
 ## 📂 Estrutura do Projeto
 
 - **SICRO_COMPLETO_2022-2024.xlsx** → Arquivo original com os dados do sistema SICRO.  
-- **SICRO_COMPLETO_2022_2024_VEÍCULO_RODOFERROVIÁRIO (1).ipynb** → Notebook Jupyter com o código e as visualizações da análise.  
+- **SICRO_COMPLETO_2022_2024_VEÍCULO_RODOFERROVIÁRIO.ipynb** → Google Colab com o código e as visualizações da análise.  
