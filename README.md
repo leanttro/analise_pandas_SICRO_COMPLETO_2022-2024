@@ -6,6 +6,16 @@ O objetivo é explorar as variações de preço, entender os custos de posse e o
 
 ---
 
+## ▶️ Como Executar no Google Colab
+
+Você pode abrir e executar o projeto direto no Google Colab clicando no link abaixo:  
+
+👉 [Abrir no Google Colab](https://colab.research.google.com/drive/1_IcdcP9mLREEp3wOduhzXz2OQHIm8VJ6?usp=sharing)
+
+> Obs: é necessário fazer upload do arquivo `SICRO_COMPLETO_2022-2024.xlsx` para a área de arquivos do Colab.
+
+---
+
 ## 📊 Visão Geral da Análise
 
 A análise se concentra na família de veículos **VEÍCULO RODOFERROVIÁRIO**, dividida em duas categorias principais:
@@ -37,20 +47,6 @@ O notebook explora estas áreas de dados:
 - **Pandas** → Manipulação e análise de dados.  
 - **Matplotlib & Seaborn** → Visualização dos dados.  
 - **Google Colab** → Ambiente de desenvolvimento e apresentação da análise.  
-
----
-
-## ▶️ Como Executar no Google Colab
-
-1. **Faça o upload dos arquivos**  
-   - Clique no ícone de pasta (à esquerda no Colab).  
-   - Faça upload de:  
-     - `SICRO_COMPLETO_2022-2024.xlsx`  
-     - `SICRO_COMPLETO_2022_2024_VEÍCULO_RODOFERROVIÁRIO.ipynb`  
-
-2. **Abra e execute o notebook**  
-   - Clique no notebook para abrir.  
-   - Execute todas as células para reproduzir a análise.  
 
 ---
 
